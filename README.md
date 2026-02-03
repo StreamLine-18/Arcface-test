@@ -1,4 +1,4 @@
-# MySIMOKA - Face Recognition Demo
+Face Recognition Demo
 
 Real-time face recognition dengan dua opsi:
 - **ArcFace (Recommended)** - Deep learning, akurat untuk identity
