@@ -159,7 +159,7 @@ Tests against Labeled Faces in the Wild dataset.
 ## 📁 Project Structure
 
 ```
-MySimoka/
+app/
 ├── demo_webcam.py      # Main webcam demo
 ├── manage_db.py        # Database seeding tool
 ├── test_robustness.py  # Offline robustness tests
