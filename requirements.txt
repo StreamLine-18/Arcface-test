@@ -1,0 +1,25 @@
+# MySIMOKA - Mock App for 3-Vector Face Recognition Testing
+# Python 3.9+
+
+# Web Framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+
+# AI & Vision
+numpy>=1.21.0
+opencv-python>=4.5.0
+scipy>=1.7.0
+mediapipe>=0.10.0
+
+# Face Recognition (ArcFace)
+insightface>=0.7.0
+onnxruntime>=1.15.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
